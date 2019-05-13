@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jinNiuKuaiGouApplicationVue",
+    "packageName": "com.jnkuaigou.application",
+    "packageFolder": "com/jnkuaigou/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "cucumber",
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "NDkzZWE5YmM3Mzg3ODNkM2NhZThkMzZkOTAyZjEwYmJhYjkyNWZmMTBiN2E0M2U1MzYxOGI5ZDM2MzZmY2YxODA0MjQ4ZjRkY2U2OGQyNmZlM2NiZGZmNzU1NTJmOWNiMGRhMWI4YmU1NjNjM2U5NTAxN2UzNzVmNjlkNmY1MDg=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "googlezhang",
+  "repository-name": "jinniu-kuaigou-application-vue"
+}
